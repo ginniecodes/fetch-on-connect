@@ -1,0 +1,26 @@
+{
+  "name": "fetch-on-connect",
+  "version": "1.0.0",
+  "description": "request in react-native when connection is available",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhia/fetch-on-connect.git"
+  },
+  "keywords": [
+    "fetch",
+    "react-native"
+  ],
+  "author": "Jhinel Arcaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhia/fetch-on-connect/issues"
+  },
+  "homepage": "https://github.com/jhia/fetch-on-connect#readme",
+  "dependencies": {
+    "react-native": "^0.49.3"
+  }
+}
